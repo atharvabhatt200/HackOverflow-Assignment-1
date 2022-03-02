@@ -12,6 +12,6 @@ Welcome to RGB Color Picker Game!
 - Click on New Colors or Play Again to start a new game.
 - You can chosse difficulty using Choose Level option.
 
-The link to the deployment is: 
+The link to the deployment is: https://hack-overflow-assignment-1.vercel.app/
 
 Have fun!
